@@ -52,5 +52,5 @@ Limited funding may be available to support participants from South Africa based
 ### Abstract Submission deadline: 
 Tuesday Feb 18, 2020
 
-### Contact:
-[workshop organising committee](mailto:fsai.iclr@gmail.com)
+### Contact: workshop organising committee
+[fsai.iclr@gmail.com](mailto:fsai.iclr@gmail.com)
