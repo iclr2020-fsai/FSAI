@@ -1,10 +1,11 @@
 # Fundamental Science in the AI Era
+## April 26 2020, Addis Ababa, Ethiopia
 
-We are pleased to announce the first “Fundamental Science in the AI Era” Workshop at the International Conference on Learning Representations (ICLR) 2020  - http://iclr.cc. To be held on 
-April 26 in Addis Ababa, Ethiopia.
+We are pleased to announce the first “Fundamental Science in the AI Era” Workshop at the International Conference on Learning Representations (ICLR) 2020  - http://iclr.cc. To be held on .
 
 This workshop will address a number of pressing topics: What is good fundamental science  in an era when AI is becoming core to the way scientists interrogate and understand the physical world? How can AI help deal rigorously with the data deluge of “big science”? How can AI help amplify the social impact of fundamental science? 
-The abstract submission deadline is Tuesday Feb 18, 2020, further details are below. Please visit the website <add link> to apply.
+
+### Abstract submission deadline: Tuesday Feb 18, 2020
  
 ## Workshop Rationale
 The key themes for the workshop are:
@@ -46,7 +47,10 @@ Accepted submissions will be included in the poster sessions. A subset will be i
 Limited funding may be available to support participants from South Africa based on need. 
 
 ### Workshop website:
+https://iclr2020-fsai.github.io/FSAI
 
-### Submission deadline: Tuesday Feb 18, 2020
+### Abstract Submission deadline: 
+Tuesday Feb 18, 2020
 
-### Contact: workshop organising committee: fsai.iclr@gmail.com 
+### Contact: workshop organising committee: 
+fsai.iclr@gmail.com 
