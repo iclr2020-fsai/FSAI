@@ -45,7 +45,7 @@ Accepted submissions will be included in the poster sessions. A subset will be i
 
 ### Abstract Submission deadline: 
 Tuesday Feb 18, 2020
-Please go to https://cmt3.research.microsoft.com/FSEAI2020 to apply.
+Please go to [https://cmt3.research.microsoft.com/FSEAI2020](https://cmt3.research.microsoft.com/FSEAI2020) to apply.
 
 ### Travel grant support
 Limited funding may be available to support participants from South Africa whose contributions are accepted for a poster or talk, based on need. 
