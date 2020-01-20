@@ -43,15 +43,15 @@ Submissions are limited to 4 pages for “Papers Track” (work that is in progr
 
 Accepted submissions will be included in the poster sessions. A subset will be invited to give 10-20 minute spotlight talks.  
 
-## Travel grant support
+### Abstract Submission deadline: 
+Tuesday Feb 18, 2020
+Please go to https://cmt3.research.microsoft.com/FSEAI2020 to apply.
 
+### Travel grant support
 Limited funding may be available to support participants from South Africa whose contributions are accepted for a poster or talk, based on need. 
 
 ### Workshop website:
 [https://iclr2020-fsai.github.io/FSAI](https://iclr2020-fsai.github.io/FSAI)
-
-### Abstract Submission deadline: 
-Tuesday Feb 18, 2020
 
 ### Contact: workshop organising committee
 [fsai.iclr@gmail.com](mailto:fsai.iclr@gmail.com)
