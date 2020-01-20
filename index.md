@@ -3,7 +3,7 @@
 
 We are pleased to announce the first “Fundamental Science in the era of AI” Workshop at the [International Conference on Learning Representations (ICLR) 2020](iclr.cc).
 
-This workshop will address a number of pressing topics: What is good fundamental science  in an era when AI is becoming core to the way scientists interrogate and understand the physical world? How can AI help deal rigorously with the data deluge of “big science”? How can AI help amplify the social impact of fundamental science? 
+This workshop will address a number of pressing topics: what is good fundamental science in an era when AI is becoming core to the way scientists interrogate and understand the physical world? How can AI help deal rigorously with the data deluge of “big science”? How can AI help amplify the social impact of fundamental science? 
 
 ### Abstract submission deadline: Tuesday Feb 18, 2020
 Please go to [https://cmt3.research.microsoft.com/FSEAI2020](https://cmt3.research.microsoft.com/FSEAI2020) to apply.
