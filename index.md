@@ -1,7 +1,7 @@
 # Fundamental Science in the era of AI
 ## April 26 2020, Addis Ababa, Ethiopia
 
-We are pleased to announce the first “Fundamental Science in the era of AI” Workshop at the [International Conference on Learning Representations (ICLR) 2020](iclr.cc).
+We are pleased to announce the first “Fundamental Science in the era of AI” Workshop at the [International Conference on Learning Representations (ICLR) 2020](https://iclr.cc).
 
 This workshop will address a number of pressing topics: what is good fundamental science in an era when AI is becoming core to the way scientists interrogate and understand the physical world? How can AI help deal rigorously with the data deluge of “big science”? How can AI help amplify the social impact of fundamental science? 
 
