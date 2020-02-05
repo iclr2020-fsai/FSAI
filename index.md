@@ -16,9 +16,9 @@ The key themes for the workshop are:
 + Social Good through AI for Fundamental Science Research - Most big science experiments are funded at least partly because of their long term contribution to the wellbeing of society. What new opportunities does AI-enhanced science provide for the SKA and other big science experiments to contribute to social good through AI, particularly in Africa?
 
 ## Invited Speakers (Confirmed)
-Pavlos Protopapas (Harvard)
-Francois Lanusse (Berkeley)
-Ashish Mahalbal (Caltech
++ Pavlos Protopapas (Harvard)
++ Francois Lanusse (Berkeley)
++ Ashish Mahalbal (Caltech
 
 
 ## Topics
