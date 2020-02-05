@@ -18,7 +18,7 @@ The key themes for the workshop are:
 ## Invited Speakers (Confirmed)
 + Pavlos Protopapas (Harvard)
 + Francois Lanusse (Berkeley)
-+ Ashish Mahalbal (Caltech
++ Ashish Mahalbal (Caltech)
 
 
 ## Topics
