@@ -32,8 +32,10 @@ The key themes for the workshop are:
 
 ## Invited Speakers (Confirmed)
 + Pavlos Protopapas (Harvard)
-+ Francois Lanusse (Berkeley)
++ Francois Lanusse (CosmoStat Laboratory at CEA Saclay)
 + Ashish Mahalbal (Caltech)
++ Benjamin Nachmann (Lawrence Berkeley National Laboratory)
++ Anais Moeller (CNRS at Laboratoire de Physique de Clermont)
 
 
 ## Topics
@@ -70,6 +72,9 @@ Please go to [https://cmt3.research.microsoft.com/FSEAI2020](https://cmt3.resear
 
 ### Travel grant support
 Limited funding may be available to support participants from South Africa whose contributions are accepted for a poster or talk, based on need. 
+
+### Code of Conduct
+By participating in FSAI, including Q&A sessions, panels, and poster sessions, you agree to follow the [ICLR Code of Conduct](https://iclr.cc/public/CodeOfConduct).
 
 ### Workshop website:
 [https://iclr2020-fsai.github.io/FSAI](https://iclr2020-fsai.github.io/FSAI)
