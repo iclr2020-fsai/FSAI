@@ -8,6 +8,21 @@ This workshop will address a number of pressing topics: what is good fundamental
 ### Abstract submission deadline: Tuesday Feb 18, 2020
 Please go to [https://cmt3.research.microsoft.com/FSEAI2020](https://cmt3.research.microsoft.com/FSEAI2020) to apply.
  
+## How To Participate?
+This virtual workshop (a new format for both ICLR and us) will consist of a mix of pre-recorded and live content, with Various different ways to participate and engage.
+
++ Register for ICLR (optional)
++ Suggest and vote on panel discussion questions
++ View the livestream (coming soon!)
+
+### Livestream 
+Throughout the day we will be livestreaming invited talks, contributed talks, lightning poster presentations, and 2 live panel discussions. Please see the Schedule for details on what is being streamed when (timezone NB).
+
+During the livestream, we encourage you to discuss the workshop content with other participants and to ask questions of our speakers.
+
+### Panels
+Our invited speakers and panelists will discuss a mix of curated and audience questions. Please suggest topics of discussion on the Sli.do to help us put together the best discussion possible
+
 ## Workshop Rationale
 The key themes for the workshop are:
 + Rigorous and interpretable ML for fundamental science - “Big” science goals require precise control of systematic errors and yet deliver exabytes of data that will likely need the techniques of machine and deep learning to process. Fundamental sciences require models that are interpretable, free from bias and with precise measures of uncertainty. How best can we blend the speed and generality of machine learning with rigorous statistical methodology in a computationally feasible way on exabytes of data? And how do we optimally embed known physics, laws and symmetries into deep learning models?
