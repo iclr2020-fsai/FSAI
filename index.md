@@ -11,9 +11,9 @@ Please go to [https://cmt3.research.microsoft.com/FSEAI2020](https://cmt3.resear
 ## How To Participate?
 This virtual workshop (a new format for both ICLR and us) will consist of a mix of pre-recorded and live content, with Various different ways to participate and engage.
 
-+ Register for ICLR (optional)
-+ Suggest and vote on panel discussion questions
-+ View the livestream (coming soon!)
++ [Register](https://iclr.cc/Register/view-registration) for ICLR (optional)
++ [Suggest and vote](https://app.sli.do/event/wmcmafgi) on panel discussion questions
++ View the livestream (coming soon)
 
 ### Livestream 
 Throughout the day we will be livestreaming invited talks, contributed talks, lightning poster presentations, and 2 live panel discussions. Please see the Schedule for details on what is being streamed when (timezone NB).
