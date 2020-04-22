@@ -15,7 +15,8 @@ This virtual workshop (a new format for both ICLR and us) will consist of a mix 
 ### Livestream 
 Throughout the day we will be livestreaming invited talks, contributed talks, lightning poster presentations, and 2 live panel discussions. Please see the Schedule for details on what is being streamed when (timezone NB).
 
-During the livestream, we encourage you to discuss the workshop content with other participants and to ask questions of our speakers.
+### Q&A
+During the livestream, we encourage you to discuss the workshop content with other participants and to ask questions of our speakers. The Q&A tool is at [sli.do](https://app.sli.do/event/wmcmafgi)
 
 ### Panels
 Our invited speakers and panelists will discuss a mix of curated and audience questions. Please suggest topics of discussion on the [Sli.do](https://app.sli.do/event/wmcmafgi) to help us put together the best discussion possible
@@ -23,9 +24,6 @@ Our invited speakers and panelists will discuss a mix of curated and audience qu
 
 --
 
-
-### Abstract submission deadline: Tuesday Feb 18, 2020
-Please go to [https://cmt3.research.microsoft.com/FSEAI2020](https://cmt3.research.microsoft.com/FSEAI2020) to apply.
 
 ## Workshop Rationale
 The key themes for the workshop are:
