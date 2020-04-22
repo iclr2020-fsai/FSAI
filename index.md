@@ -9,11 +9,11 @@ This workshop will address a number of pressing topics: what is good fundamental
 Please go to [https://cmt3.research.microsoft.com/FSEAI2020](https://cmt3.research.microsoft.com/FSEAI2020) to apply.
  
 ## How To Participate?
-This virtual workshop (a new format for both ICLR and us) will consist of a mix of pre-recorded and live content, with Various different ways to participate and engage.
+This virtual workshop (a new format for both ICLR and us) will consist of a mix of pre-recorded and live content, with various different ways to participate and engage:
 
 + [Register](https://iclr.cc/Register/view-registration) for ICLR (optional)
 + [Suggest and vote](https://app.sli.do/event/wmcmafgi) on panel discussion questions
-+ View the livestream (coming soon)
++ View the livestream (link will be provided on the day)
 
 ### Livestream 
 Throughout the day we will be livestreaming invited talks, contributed talks, lightning poster presentations, and 2 live panel discussions. Please see the Schedule for details on what is being streamed when (timezone NB).
@@ -21,7 +21,10 @@ Throughout the day we will be livestreaming invited talks, contributed talks, li
 During the livestream, we encourage you to discuss the workshop content with other participants and to ask questions of our speakers.
 
 ### Panels
-Our invited speakers and panelists will discuss a mix of curated and audience questions. Please suggest topics of discussion on the Sli.do to help us put together the best discussion possible
+Our invited speakers and panelists will discuss a mix of curated and audience questions. Please suggest topics of discussion on the [Sli.do](https://app.sli.do/event/wmcmafgi) to help us put together the best discussion possible
+
+
+--
 
 ## Workshop Rationale
 The key themes for the workshop are:
