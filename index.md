@@ -22,9 +22,12 @@ During the livestream, we encourage you to discuss the workshop content with oth
 Our invited speakers and panelists will discuss a mix of curated and audience questions. Please suggest topics of discussion on the [Sli.do](https://app.sli.do/event/wmcmafgi) to help us put together the best discussion possible
 
 --
+
 ## Schedule
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSSNEsGeUtMKj7mJvgSFhc8jW9TXIAm83BAKGlTHv4HcbGuuJnDS6jDsh5pnBAE_o3Tc_nEbbWiOU9d/pubhtml?gid=746171150&amp;single=true&amp;widget=true&amp;headers=false" width="700" height="570"></iframe>
+
 --
+
 ## Contributions
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSSNEsGeUtMKj7mJvgSFhc8jW9TXIAm83BAKGlTHv4HcbGuuJnDS6jDsh5pnBAE_o3Tc_nEbbWiOU9d/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="700" height="500"></iframe>
 
