@@ -1,5 +1,6 @@
 # Fundamental Science in the era of AI
-## April 26 2020, Addis Ababa, Ethiopia
+## April 26 2020,
+## Virtual Conference (previously in Addis Ababa, Ethiopia)
 
 We are pleased to announce the first “Fundamental Science in the era of AI” Workshop at the [International Conference on Learning Representations (ICLR) 2020](https://iclr.cc).
 
