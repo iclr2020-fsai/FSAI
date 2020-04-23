@@ -21,6 +21,9 @@ During the livestream, we encourage you to discuss the workshop content with oth
 ### Panels
 Our invited speakers and panelists will discuss a mix of curated and audience questions. Please suggest topics of discussion on the [Sli.do](https://app.sli.do/event/wmcmafgi) to help us put together the best discussion possible
 
+### Code of Conduct
+By participating in FSAI, including Q&A sessions, panels, and poster sessions, you agree to follow the [ICLR Code of Conduct](https://iclr.cc/public/CodeOfConduct).
+
 --
 
 ## Schedule
@@ -31,6 +34,7 @@ Our invited speakers and panelists will discuss a mix of curated and audience qu
 ## Contributions
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSSNEsGeUtMKj7mJvgSFhc8jW9TXIAm83BAKGlTHv4HcbGuuJnDS6jDsh5pnBAE_o3Tc_nEbbWiOU9d/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="700" height="500"></iframe>
 
+--
 
 ## Workshop Rationale
 The key themes for the workshop are:
@@ -81,9 +85,6 @@ Please go to [https://cmt3.research.microsoft.com/FSEAI2020](https://cmt3.resear
 
 ### Travel grant support
 Limited funding may be available to support participants from South Africa whose contributions are accepted for a poster or talk, based on need. 
-
-### Code of Conduct
-By participating in FSAI, including Q&A sessions, panels, and poster sessions, you agree to follow the [ICLR Code of Conduct](https://iclr.cc/public/CodeOfConduct).
 
 ### Workshop website:
 [https://iclr2020-fsai.github.io/FSAI](https://iclr2020-fsai.github.io/FSAI)
