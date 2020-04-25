@@ -31,7 +31,7 @@ Throughout the day we will be livestreaming invited talks, contributed talks, li
     		});
 	</script>
     </div>
-    
+  </div>
   <div class="col">
     <div class="rocket">
       <iframe frameborder="0" src="https://iclr.rocket.chat/channel/workshop_FSAI?layout=embedded" width="100%" height="280px"></iframe>
