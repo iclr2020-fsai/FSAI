@@ -15,9 +15,9 @@ Throughout the day we will be livestreaming invited talks, contributed talks, li
 
 [ NEW You'll now be able to view the livestream directly on the workshop website:]
 
- <iframe src="https://www.w3schools.com"></iframe>
+ <iframe frameborder="0" src="https://iclr.cc/virtual/workshops_1.html" width="100%" height="680px"></iframe>
  
- <iframe frameborder="0" src="https://iclr.rocket.chat/channel/workshop_FSAI?layout=embedded" width="100%" height="680px"></iframe>
+ <iframe frameborder="0" src="https://iclr.rocket.chat/channel/workshop_FSAI?layout=embedded" width="100%" height="380px"></iframe>
 
 
 
@@ -33,12 +33,12 @@ By participating in FSAI, including Q&A sessions, panels, and poster sessions, y
 --
 
 ## Schedule
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSSNEsGeUtMKj7mJvgSFhc8jW9TXIAm83BAKGlTHv4HcbGuuJnDS6jDsh5pnBAE_o3Tc_nEbbWiOU9d/pubhtml?gid=746171150&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height="615"></iframe>
+<iframe frameborder="0" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSSNEsGeUtMKj7mJvgSFhc8jW9TXIAm83BAKGlTHv4HcbGuuJnDS6jDsh5pnBAE_o3Tc_nEbbWiOU9d/pubhtml?gid=746171150&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height="615"></iframe>
 
 --
 
 ## Contributions
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSSNEsGeUtMKj7mJvgSFhc8jW9TXIAm83BAKGlTHv4HcbGuuJnDS6jDsh5pnBAE_o3Tc_nEbbWiOU9d/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="750" height="600"></iframe>
+<iframe frameborder="0" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSSNEsGeUtMKj7mJvgSFhc8jW9TXIAm83BAKGlTHv4HcbGuuJnDS6jDsh5pnBAE_o3Tc_nEbbWiOU9d/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height="600"></iframe>
 
 --
 ## Fundamental Science in the era of AI at ICLR 2020
