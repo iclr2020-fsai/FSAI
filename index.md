@@ -1,10 +1,8 @@
 # Fundamental Science in the era of AI
 ## April 26 2020,
-## Virtual Conference (previously in Addis Ababa, Ethiopia)
+## Virtual Workshop at ICLR 2020 (previously in Addis Ababa, Ethiopia)
 
-We are pleased to announce the first “Fundamental Science in the era of AI” Workshop at the [International Conference on Learning Representations (ICLR) 2020](https://iclr.cc).
-
-This workshop will address a number of pressing topics: what is good fundamental science in an era when AI is becoming core to the way scientists interrogate and understand the physical world? How can AI help deal rigorously with the data deluge of “big science”? How can AI help amplify the social impact of fundamental science? 
+This ICLR 2020 Workshop will address a number of pressing topics: what is good fundamental science in an era when AI is becoming core to the way scientists interrogate and understand the physical world? How can AI help deal rigorously with the data deluge of “big science”? How can AI help amplify the social impact of fundamental science? 
  
 ## How To Participate?
 This virtual workshop (a new format for both ICLR and us) will consist of a mix of pre-recorded and live content, with various different ways to participate and engage:
@@ -38,6 +36,9 @@ By participating in FSAI, including Q&A sessions, panels, and poster sessions, y
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSSNEsGeUtMKj7mJvgSFhc8jW9TXIAm83BAKGlTHv4HcbGuuJnDS6jDsh5pnBAE_o3Tc_nEbbWiOU9d/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="750" height="600"></iframe>
 
 --
+## Fundamental Science in the era of AI at ICLR 2020
+
+We are pleased to announce the first “Fundamental Science in the era of AI” Workshop at the [International Conference on Learning Representations (ICLR) 2020](https://iclr.cc).
 
 ## Workshop Rationale
 The key themes for the workshop are:
