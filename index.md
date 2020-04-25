@@ -1,4 +1,4 @@
-# Fundamental Science in the era of AI
+# Fundamental Science in the AI Era
 ### April 26 2020
 ## Virtual Workshop at ICLR 2020 (previously in Addis Ababa, Ethiopia)
  
