@@ -19,13 +19,20 @@ Throughout the day we will be livestreaming invited talks, contributed talks, li
 
 <div class="row justify-content-center">
   <div class="col">
-    <div class="text-center">
-	    <i>The livestream has not yet started.</i>
+    <div id="presentation-embed-38926838"></div>
+	<script src='https://slideslive.com/embed_presentation.js'></script>
+	<script>
+    		embed = new SlidesLiveEmbed('presentation-embed-38926838', {
+        	presentationId: '38926838',
+        	autoPlay: true, // change to false to disallow autoplay
+        	verticalEnabled: true
+    		});
+	</script>
     </div>
   </div>
   <div class="col">
     <div class="rocket">
-      <iframe frameborder="0" src="https://iclr.rocket.chat/channel/workshop_FSAI?layout=embedded" width="100%" height="280px"></iframe>
+	    <iframe frameborder="0" src="https://iclr.rocket.chat/channel/workshop_FSAI?layout=embedded" width="100%" height="280px"></iframe>
     </div>
   </div>
 </div>
