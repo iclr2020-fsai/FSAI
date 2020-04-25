@@ -14,7 +14,11 @@ This virtual workshop (a new format for both ICLR and us) will consist of a mix 
 + View the livestream (link will be provided on the day)
 
 ### Livestream 
-Throughout the day we will be livestreaming invited talks, contributed talks, lightning poster presentations, and 2 live panel discussions. Please see the Schedule for details on what is being streamed when (timezone NB).
+Throughout the day we will be livestreaming invited talks, contributed talks, lightning poster presentations, and 2 live panel discussions. Please see the Schedule for details.
+
+[ NEW You'll now be able to view the livestrem directly on the workshop website:]
+
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSSNEsGeUtMKj7mJvgSFhc8jW9TXIAm83BAKGlTHv4HcbGuuJnDS6jDsh5pnBAE_o3Tc_nEbbWiOU9" width="750" height="600"></iframe> 
 
 ### Q&A
 During the livestream, we encourage you to discuss the workshop content with other participants and to ask questions of our speakers. The Q&A tool is at [sli.do](https://app.sli.do/event/wmcmafgi)
