@@ -48,12 +48,12 @@ By participating in FSAI, including Q&A sessions, panels, and poster sessions, y
 --
 
 ## Schedule
-<iframe frameborder="0" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSSNEsGeUtMKj7mJvgSFhc8jW9TXIAm83BAKGlTHv4HcbGuuJnDS6jDsh5pnBAE_o3Tc_nEbbWiOU9d/pubhtml?gid=746171150&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height="615"></iframe>
+<iframe frameborder="0" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSSNEsGeUtMKj7mJvgSFhc8jW9TXIAm83BAKGlTHv4HcbGuuJnDS6jDsh5pnBAE_o3Tc_nEbbWiOU9d/pubhtml?gid=746171150&amp;single=true&amp;widget=true&amp;headers=false" width="680" height="615"></iframe>
 
 --
 
 ## Contributions
-<iframe frameborder="0" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSSNEsGeUtMKj7mJvgSFhc8jW9TXIAm83BAKGlTHv4HcbGuuJnDS6jDsh5pnBAE_o3Tc_nEbbWiOU9d/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height="600"></iframe>
+<iframe frameborder="0" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSSNEsGeUtMKj7mJvgSFhc8jW9TXIAm83BAKGlTHv4HcbGuuJnDS6jDsh5pnBAE_o3Tc_nEbbWiOU9d/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="680" height="600"></iframe>
 
 --
 ## Fundamental Science in the era of AI at ICLR 2020
