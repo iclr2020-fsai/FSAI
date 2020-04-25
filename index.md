@@ -8,14 +8,14 @@ This virtual workshop will consist of a mix of pre-recorded and live content, wi
 + [Register](https://iclr.cc/Register/view-registration) for ICLR (optional)
 + [Suggest and vote](https://app.sli.do/event/wmcmafgi) on panel discussion questions
 + Chat on [rocketchat.io](https://iclr.rocket.chat/channel/workshop_FSAI?layout=embedded)
-+ View the livestream (link will be provided on the day)
++ View the livestream (will be live below on the day)
 
 ### Livestream 
 Throughout the day we will be livestreaming invited talks, contributed talks, lightning poster presentations, and 2 live panel discussions. Please see the Schedule for details.
 
 [ NEW You'll now be able to view the livestream directly on the workshop website:]
 
- <iframe frameborder="0" src="https://iclr.cc/virtual/workshops_1.html" width="100%" height="680px"></iframe>
+ <iframe frameborder="0" src="https://iclr.cc/virtual/workshops_1.html" width="100%" height="500px"></iframe>
  
  <iframe frameborder="0" src="https://iclr.rocket.chat/channel/workshop_FSAI?layout=embedded" width="100%" height="380px"></iframe>
 
