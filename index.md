@@ -13,7 +13,8 @@ This virtual workshop will consist of a mix of pre-recorded and live content, wi
 ### Livestream 
 Throughout the day we will be livestreaming invited talks, contributed talks, lightning poster presentations, and 2 live panel discussions. Please see the Schedule for details.
 
- <iframe src="https://www.w3schools.com"></iframe> 
+ <iframe src="https://www.w3schools.com"></iframe>
+ <iframe frameborder="0" src="https://iclr.rocket.chat/channel/workshop_FSAI?layout=embedded" width="100%" height="680px"></iframe>
 
 [ NEW You'll now be able to view the livestream directly on the workshop website:]
 
@@ -29,7 +30,7 @@ By participating in FSAI, including Q&A sessions, panels, and poster sessions, y
 --
 
 ## Schedule
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSSNEsGeUtMKj7mJvgSFhc8jW9TXIAm83BAKGlTHv4HcbGuuJnDS6jDsh5pnBAE_o3Tc_nEbbWiOU9d/pubhtml?gid=746171150&amp;single=true&amp;widget=true&amp;headers=false" width="750" height="615"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSSNEsGeUtMKj7mJvgSFhc8jW9TXIAm83BAKGlTHv4HcbGuuJnDS6jDsh5pnBAE_o3Tc_nEbbWiOU9d/pubhtml?gid=746171150&amp;single=true&amp;widget=true&amp;headers=false" width="100%" height="615"></iframe>
 
 --
 
