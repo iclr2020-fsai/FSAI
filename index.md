@@ -16,9 +16,21 @@ This virtual workshop (a new format for both ICLR and us) will consist of a mix 
 ### Livestream 
 Throughout the day we will be livestreaming invited talks, contributed talks, lightning poster presentations, and 2 live panel discussions. Please see the Schedule for details.
 
-[ NEW You'll now be able to view the livestrem directly on the workshop website:]
+[ NEW You'll now be able to view the livestream directly on the workshop website:]
 
-<iframe src="https://iclr.cc/virtual/workshops_1.html" width="750" height="600"></iframe> 
+<div class="row justify-content-center">
+  <div class="col">
+  	
+    <div class="text-center"><i>The livestream has not yet started.</i></div>
+	
+  </div>
+  
+  <div class="col">
+    <div class="rocket">
+      <iframe frameborder="0" src="https://iclr.rocket.chat/channel/workshop_BAICS?layout=embedded" width="100%" height="680px"></iframe>
+    </div>
+  </div>
+</div>
 
 ### Q&A
 During the livestream, we encourage you to discuss the workshop content with other participants and to ask questions of our speakers. The Q&A tool is at [sli.do](https://app.sli.do/event/wmcmafgi)
