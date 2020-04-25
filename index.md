@@ -7,11 +7,13 @@ This virtual workshop will consist of a mix of pre-recorded and live content, wi
 
 + [Register](https://iclr.cc/Register/view-registration) for ICLR (optional)
 + [Suggest and vote](https://app.sli.do/event/wmcmafgi) on panel discussion questions
-+ Chat on [rocketchat.io](https://iclr.rocket.chat/channel/workshop_BAICS?layout=embedded)
++ Chat on [rocketchat.io](https://iclr.rocket.chat/channel/workshop_FSAI?layout=embedded)
 + View the livestream (link will be provided on the day)
 
 ### Livestream 
 Throughout the day we will be livestreaming invited talks, contributed talks, lightning poster presentations, and 2 live panel discussions. Please see the Schedule for details.
+
+ <iframe src="https://www.w3schools.com"></iframe> 
 
 [ NEW You'll now be able to view the livestream directly on the workshop website:]
 
