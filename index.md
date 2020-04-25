@@ -6,8 +6,8 @@
 This virtual workshop will consist of a mix of pre-recorded and live content, with various different ways to participate and engage:
 
 + [Register](https://iclr.cc/Register/view-registration) for ICLR (optional)
-+ [Suggest and vote](https://app.sli.do/event/wmcmafgi) on panel discussion questions
-+ Chat on [rocketchat.io](https://iclr.rocket.chat/channel/workshop_FSAI?layout=embedded) (register [here](https://iclr.rocket.chat/register/J5aqNDEumaRLKP67d)
++ [Suggest and vote](https://app.sli.do/event/wmcmafgi) on panel discussion questions before the event
++ Chat on [rocketchat.io](https://iclr.rocket.chat/channel/workshop_FSAI?layout=embedded) (register [here](https://iclr.rocket.chat/register/J5aqNDEumaRLKP67d))
 + Live Panels (panelists and speakers only): [Register for the Zoom Webinar](https://us02web.zoom.us/webinar/register/WN_hfQAX8wPSCWHjorMIweTYg)
 + View the livestream (will be live below on the day)
 
