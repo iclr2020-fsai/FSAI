@@ -18,9 +18,7 @@ Throughout the day we will be livestreaming invited talks, contributed talks, li
 
 #### <div class="text-center"><i>The livestream has not yet started.</i></div>
 
-<div class="row justify-content-center">
-  <div class="col">
-    <div class="slideslive">
+<div class="slideslive">
     <div id="presentation-embed-38926838">
 	<script src='https://slideslive.com/embed_presentation.js'></script>
 	<script>
@@ -30,6 +28,14 @@ Throughout the day we will be livestreaming invited talks, contributed talks, li
         		verticalEnabled: true
     		});
 	</script>
+    </div>
+  </div>
+
+
+<div class="row justify-content-center">
+  <div class="col">
+    <div class="text-center">
+	    <i>The livestream has not yet started.</i>
     </div>
   </div>
   <div class="col">
