@@ -29,7 +29,7 @@ A
 </script>
 </div>
 
-AB
+B
 
 <div class="row justify-content-center">
   <div class="col">
@@ -42,13 +42,9 @@ AB
         		autoPlay: true, // change to false to disallow autoplay
         		verticalEnabled: true
     		});
-</script>
-</div>
-
-ABC
-	  
-  </div>
-  
+	</script>
+    </div>
+    </div>
   <div class="col">
     <div class="rocket">
       <iframe frameborder="0" src="https://iclr.rocket.chat/channel/workshop_FSAI?layout=embedded" width="100%" height="280px"></iframe>
@@ -56,7 +52,7 @@ ABC
   </div>
 </div>
 
-ABCD
+C
 
 <div id="presentation-embed-38926838" class="slp my-auto"></div>
           <script src='https://slideslive.com/embed_presentation.js'></script>
@@ -71,12 +67,12 @@ ABCD
             });
           </script>
 
-ABCDE
+D
 
 <iframe frameborder="0" src="https://iclr.rocket.chat/channel/workshop_FSAI?layout=embedded" width="100%" height="380px" 
 allowfullscreen="true" ></iframe>
 
-
+E 
 
 ### Q&A
 During the livestream, we encourage you to discuss the workshop content with other participants and to ask questions of our speakers. The Q&A tool is at [sli.do](https://app.sli.do/event/wmcmafgi)
