@@ -18,7 +18,7 @@ Throughout the day we will be livestreaming invited talks, contributed talks, li
 
 [ NEW You'll now be able to view the livestrem directly on the workshop website:]
 
-<iframe src="..." width="750" height="600"></iframe> 
+<iframe src="https://iclr.cc/virtual/workshops_1.html" width="750" height="600"></iframe> 
 
 ### Q&A
 During the livestream, we encourage you to discuss the workshop content with other participants and to ask questions of our speakers. The Q&A tool is at [sli.do](https://app.sli.do/event/wmcmafgi)
