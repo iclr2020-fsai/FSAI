@@ -18,20 +18,6 @@ Throughout the day we will be livestreaming invited talks, contributed talks, li
 
 [ NEW You'll now be able to view the livestream directly on the workshop website:]
 
-<div class="row justify-content-center">
-  <div class="col">
-  	
-    <div class="text-center"><i>The livestream has not yet started.</i></div>
-	
-  </div>
-  
-  <div class="col">
-    <div class="rocket">
-      <iframe frameborder="0" src="https://iclr.rocket.chat/channel/workshop_BAICS?layout=embedded" width="100%" height="680px"></iframe>
-    </div>
-  </div>
-</div>
-
 ### Q&A
 During the livestream, we encourage you to discuss the workshop content with other participants and to ask questions of our speakers. The Q&A tool is at [sli.do](https://app.sli.do/event/wmcmafgi)
 
