@@ -12,14 +12,12 @@ This virtual workshop will consist of a mix of pre-recorded and live content, wi
 + View the livestream (will also be live below on the day) [here](https://slideslive.com/38926838)
 
 ### Livestream 
-Throughout the day we will be livestreaming invited talks, contributed talks, lightning poster presentations, and 2 live panel discussions. Please see the Schedule for details.
-
-[ NEW You'll now be able to view the livestream directly on this workshop website:]
+Throughout the day we will be livestreaming invited talks, contributed talks, lightning poster presentations, and 2 live panel discussions. Please see the schedule below for details.
 
 
 <div class="row justify-content-center">
   <div class="col">
-    <div id="presentation-embed-38926838" width="680" height="680px"></div>
+    <div id="presentation-embed-38926838"></div>
 	<script src='https://slideslive.com/embed_presentation.js'></script>
 	<script>
     		embed = new SlidesLiveEmbed('presentation-embed-38926838', {
@@ -102,6 +100,12 @@ All machine learning techniques are welcome but particularly those which have th
 Submissions are limited to 4 pages for “Papers Track” (work that is in progress, published, and/or deployed), and 3 pages for the “Proposals Track” (detailed descriptions of ideas for future work). The emphasis should be on clearly presenting the key ideas, and why they are (1) important, (2) relevant and  (3) correct.  
 
 Accepted submissions will be included in the poster sessions. A subset will be invited to give 10-20 minute spotlight talks.  
+
+### Schedule
+<div id="calendar"></div>
+<script type='text/javascript'>
+make_cal("workshop_FSAI.ics")
+</script>
 
 ### Abstract Submission deadline: 
 Tuesday Feb 18, 2020
