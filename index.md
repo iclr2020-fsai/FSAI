@@ -16,10 +16,6 @@ Throughout the day we will be livestreaming invited talks, contributed talks, li
 
 [ NEW You'll now be able to view the livestream directly on the workshop website:]
 
-A
-
-B
-
 <div class="row justify-content-center">
   <div class="col">
     <div class="text-center"><i>The livestream has not yet started.</i></div>
@@ -40,12 +36,6 @@ B
     </div>
   </div>
 </div>
-
-C
-
-D
-
-E 
 
 ### Q&A
 During the livestream, we encourage you to discuss the workshop content with other participants and to ask questions of our speakers. The Q&A tool is at [sli.do](https://app.sli.do/event/wmcmafgi)
