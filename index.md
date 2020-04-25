@@ -19,7 +19,7 @@ Throughout the day we will be livestreaming invited talks, contributed talks, li
 
 <div class="row justify-content-center">
   <div class="col">
-    <div id="presentation-embed-38926838"></div>
+    <div id="presentation-embed-38926838" width="680" height="680px"></div>
 	<script src='https://slideslive.com/embed_presentation.js'></script>
 	<script>
     		embed = new SlidesLiveEmbed('presentation-embed-38926838', {
