@@ -54,7 +54,7 @@ B
 
 C
 
-<div id="presentation-embed-38926838" class="slp my-auto"></div>
+<div id="presentation-embed-38926838">
           <script src='https://slideslive.com/embed_presentation.js'></script>
           <script>
             embed = new SlidesLiveEmbed('presentation-embed-38926838', {
@@ -66,6 +66,7 @@ C
             hideTitle: true
             });
           </script>
+</div>
 
 D
 
