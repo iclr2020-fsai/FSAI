@@ -18,17 +18,6 @@ Throughout the day we will be livestreaming invited talks, contributed talks, li
 
 A
 
-<div id="presentation-embed-38926838">
-<script src='https://slideslive.com/embed_presentation.js'></script>
-<script>
-    embed = new SlidesLiveEmbed('presentation-embed-38926838', {
-        presentationId: '38926838',
-        autoPlay: true, // change to false to disallow autoplay
-        verticalEnabled: true
-    });
-</script>
-</div>
-
 B
 
 <div class="row justify-content-center">
@@ -54,24 +43,7 @@ B
 
 C
 
-<div id="presentation-embed-38926838">
-          <script src='https://slideslive.com/embed_presentation.js'></script>
-          <script>
-            embed = new SlidesLiveEmbed('presentation-embed-38926838', {
-            presentationId: '38926838',
-            autoPlay: false, // change to true to autoplay the embedded presentation
-            verticalEnabled: true,
-            verticalWhenWidthLte: 2000,
-            allowHiddenControlsWhenPaused: true,
-            hideTitle: true
-            });
-          </script>
-</div>
-
 D
-
-<iframe frameborder="0" src="https://iclr.rocket.chat/channel/workshop_FSAI?layout=embedded" width="100%" height="380px" 
-allowfullscreen="true" ></iframe>
 
 E 
 
