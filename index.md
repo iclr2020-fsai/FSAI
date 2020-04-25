@@ -28,7 +28,6 @@ Throughout the day we will be livestreaming invited talks, contributed talks, li
         	verticalEnabled: true
     		});
 	</script>
-    </div>
   </div>
   <div class="col">
     <div class="rocket">
