@@ -16,8 +16,16 @@ Throughout the day we will be livestreaming invited talks, contributed talks, li
 
 [ NEW You'll now be able to view the livestream directly on the workshop website:]
 
- <iframe allowfullscreen="true" frameborder="0" src="https://iclr.cc/virtual/workshops_1.html" width="100%" height="500px"></iframe>
- 
+<div id="presentation-embed-38926838"></div>
+<script src='https://slideslive.com/embed_presentation.js'></script>
+<script>
+    embed = new SlidesLiveEmbed('presentation-embed-38926838', {
+        presentationId: '38926838',
+        autoPlay: true, // change to false to disallow autoplay
+        verticalEnabled: true
+    });
+</script>
+
  <iframe frameborder="0" src="https://iclr.rocket.chat/channel/workshop_FSAI?layout=embedded" width="100%" height="380px" allowfullscreen="true" ></iframe>
 
 
