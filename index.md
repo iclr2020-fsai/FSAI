@@ -13,10 +13,13 @@ This virtual workshop will consist of a mix of pre-recorded and live content, wi
 ### Livestream 
 Throughout the day we will be livestreaming invited talks, contributed talks, lightning poster presentations, and 2 live panel discussions. Please see the Schedule for details.
 
+[ NEW You'll now be able to view the livestream directly on the workshop website:]
+
  <iframe src="https://www.w3schools.com"></iframe>
+ 
  <iframe frameborder="0" src="https://iclr.rocket.chat/channel/workshop_FSAI?layout=embedded" width="100%" height="680px"></iframe>
 
-[ NEW You'll now be able to view the livestream directly on the workshop website:]
+
 
 ### Q&A
 During the livestream, we encourage you to discuss the workshop content with other participants and to ask questions of our speakers. The Q&A tool is at [sli.do](https://app.sli.do/event/wmcmafgi)
