@@ -102,10 +102,14 @@ Submissions are limited to 4 pages for “Papers Track” (work that is in progr
 Accepted submissions will be included in the poster sessions. A subset will be invited to give 10-20 minute spotlight talks.  
 
 ### Schedule
-<div id="calendar"></div>
-<script type='text/javascript'>
-make_cal("workshop_FSAI.ics")
-</script>
+
+<div class="row justify-content-center">
+  <div class="col">
+    <div id="calendar"></div>
+      <script type='text/javascript'>
+        make_cal("workshop_FSAI.ics")</script>
+  </div>
+</div>  
 
 ### Abstract Submission deadline: 
 Tuesday Feb 18, 2020
