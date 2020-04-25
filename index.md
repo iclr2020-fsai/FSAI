@@ -16,21 +16,6 @@ Throughout the day we will be livestreaming invited talks, contributed talks, li
 
 [ NEW You'll now be able to view the livestream directly on this workshop website:]
 
-#### <div class="text-center"><i>The livestream has not yet started.</i></div>
-
-<div class="slideslive">
-    <div id="presentation-embed-38926838">
-	<script src='https://slideslive.com/embed_presentation.js'></script>
-	<script>
-    		embed = new SlidesLiveEmbed('presentation-embed-38926838', {
-        		presentationId: '38926838',
-        		autoPlay: true, // change to false to disallow autoplay
-        		verticalEnabled: true
-    		});
-	</script>
-    </div>
-  </div>
-
 
 <div class="row justify-content-center">
   <div class="col">
