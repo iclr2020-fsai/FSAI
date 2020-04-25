@@ -16,6 +16,8 @@ Throughout the day we will be livestreaming invited talks, contributed talks, li
 
 [ NEW You'll now be able to view the livestream directly on the workshop website:]
 
+A
+
 <div id="presentation-embed-38926838">
 <script src='https://slideslive.com/embed_presentation.js'></script>
 <script>
@@ -27,7 +29,7 @@ Throughout the day we will be livestreaming invited talks, contributed talks, li
 </script>
 </div>
 
-A
+AB
 
 <div class="row justify-content-center">
   <div class="col">
@@ -42,7 +44,9 @@ A
     		});
 </script>
 </div>
-	
+
+ABC
+	  
   </div>
   
   <div class="col">
@@ -52,7 +56,7 @@ A
   </div>
 </div>
 
-B
+ABCD
 
 <iframe frameborder="0" src="https://iclr.rocket.chat/channel/workshop_FSAI?layout=embedded" width="100%" height="380px" 
 allowfullscreen="true" ></iframe>
