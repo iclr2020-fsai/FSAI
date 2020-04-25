@@ -16,6 +16,8 @@ Throughout the day we will be livestreaming invited talks, contributed talks, li
 
 [ NEW You'll now be able to view the livestream directly on the workshop website:]
 
+
+
 <script src='https://slideslive.com/embed_presentation.js'></script>
 <script>
     embed = new SlidesLiveEmbed('presentation-embed-38926838', {
@@ -25,7 +27,6 @@ Throughout the day we will be livestreaming invited talks, contributed talks, li
     });
 </script>
 
-<iframe frameborder="0" src="https://slideslive.com/embed_presentation.js" width="100%" height="380px" ></iframe>
 
 iframe frameborder="0" src="https://iclr.rocket.chat/channel/workshop_FSAI?layout=embedded" width="100%" height="380px" 
 allowfullscreen="true" ></iframe>
