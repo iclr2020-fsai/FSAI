@@ -1,14 +1,13 @@
 # Fundamental Science in the era of AI
 ### April 26 2020
 ## Virtual Workshop at ICLR 2020 (previously in Addis Ababa, Ethiopia)
-
-This ICLR 2020 Workshop will address a number of pressing topics: what is good fundamental science in an era when AI is becoming core to the way scientists interrogate and understand the physical world? How can AI help deal rigorously with the data deluge of “big science”? How can AI help amplify the social impact of fundamental science? 
  
 ## How To Participate?
-This virtual workshop (a new format for both ICLR and us) will consist of a mix of pre-recorded and live content, with various different ways to participate and engage:
+This virtual workshop will consist of a mix of pre-recorded and live content, with various different ways to participate and engage:
 
 + [Register](https://iclr.cc/Register/view-registration) for ICLR (optional)
 + [Suggest and vote](https://app.sli.do/event/wmcmafgi) on panel discussion questions
++ Chat on [rocketchat.io](https://iclr.rocket.chat/channel/workshop_BAICS?layout=embedded)
 + View the livestream (link will be provided on the day)
 
 ### Livestream 
