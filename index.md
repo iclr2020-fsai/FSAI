@@ -57,6 +57,34 @@ ABC
 </div>
 
 ABCD
+    <!-- SlidesLive -->
+    <div class="container" style="background-color:white; padding: 0px;">
+      <div class="row m-2">
+        <div class="col-md-7 col-xs-12 my-auto p-2" >
+          <div id="presentation-embed-38926838" class="slp my-auto"></div>
+          <script src='https://slideslive.com/embed_presentation.js'></script>
+          <script>
+            embed = new SlidesLiveEmbed('presentation-embed-38926838', {
+            presentationId: '38926838',
+            autoPlay: false, // change to true to autoplay the embedded presentation
+            verticalEnabled: true,
+            verticalWhenWidthLte: 2000,
+            allowHiddenControlsWhenPaused: true,
+            hideTitle: true
+            });
+          </script>
+        </div>
+        <div class="col-md-5 col-xs-12 p-2">
+          <div id="gitter" class="slp">
+            <center>
+              <iframe frameborder="0" src="https://iclr.rocket.chat/channel/workshop_FSAI?layout=embedded" height="700px" width="100%" ></iframe>
+            </center>
+          </div>
+        </div>
+      </div>
+    </div>
+    </div>
+ ABCDE
 
 <iframe frameborder="0" src="https://iclr.rocket.chat/channel/workshop_FSAI?layout=embedded" width="100%" height="380px" 
 allowfullscreen="true" ></iframe>
