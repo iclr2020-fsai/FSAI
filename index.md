@@ -37,7 +37,7 @@ Throughout the day we will be livestreaming invited talks, contributed talks, li
 ### Q&A
 During the livestream, we encourage you to discuss the workshop content with other participants and to ask questions of our speakers. The Q&A tool is at [sli.do](https://app.sli.do/event/wmcmafgi)
 
-<iframe src="https://app.sli.do/event/wmcmafgi" height="100%" width="100%" style="min-height: 560px;"></iframe>
+<iframe src="https://app.sli.do/event/wmcmafgi" height="100%" width="100%" style="min-height: 580px;"></iframe>
 
 ### Panels
 Our invited speakers and panelists will discuss a mix of curated and audience questions. Please suggest topics of discussion on the [Sli.do](https://app.sli.do/event/wmcmafgi) to help us put together the best discussion possible
