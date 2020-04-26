@@ -5,11 +5,11 @@
 ## How To Participate?
 This virtual workshop will consist of a mix of pre-recorded and live content, with various different ways to participate and engage:
 
-+ [Register](https://iclr.cc/Register/view-registration) for ICLR (optional)
-+ [Suggest and vote](https://app.sli.do/event/wmcmafgi) on panel discussion questions before the event
++ [Register](https://iclr.cc/Register/view-registration) for ICLR (optional). 
 + Chat on [rocketchat.io](https://iclr.rocket.chat/channel/workshop_FSAI?layout=embedded) (register [here](https://iclr.rocket.chat/register/J5aqNDEumaRLKP67d))
++ [Suggest and vote](https://app.sli.do/event/wmcmafgi) on panel discussion questions before the event
 + Live Panels (panelists and speakers only): [Register for the Zoom Webinar](https://us02web.zoom.us/webinar/register/WN_hfQAX8wPSCWHjorMIweTYg)
-+ View the livestream (will also be live below on the day) [here](https://slideslive.com/38926838)
++ View the livestream (will also be live below on the day) [here](https://slideslive.com/38926838) and post live questions below.
 
 ### Livestream 
 Throughout the day we will be livestreaming invited talks, contributed talks, lightning poster presentations, and 2 live panel discussions. Please see the schedule below for details.
@@ -35,9 +35,9 @@ Throughout the day we will be livestreaming invited talks, contributed talks, li
 </div>
 
 ### Q&A
-During the livestream, we encourage you to discuss the workshop content with other participants and to ask questions of our speakers. The Q&A tool is at [sli.do](https://app.sli.do/event/wmcmafgi)
+During the livestream, we encourage you to discuss the workshop content with other participants and to ask questions of our speakers. We have two tools, [rocket.chat](https://iclr.rocket.chat/channel/workshop_FSAI) and [sli.do](https://app.sli.do/event/wmcmafgi) (to help with global access) and we'll monitor both.
 
-<iframe src="https://app.sli.do/event/wmcmafgi" height="100%" width="100%" style="min-height: 580px;"></iframe>
+<iframe src="https://app.sli.do/event/wmcmafgi" height="100%" width="100%" style="min-height: 560px;"></iframe>
 
 ### Panels
 Our invited speakers and panelists will discuss a mix of curated and audience questions. Please suggest topics of discussion on the [Sli.do](https://app.sli.do/event/wmcmafgi) to help us put together the best discussion possible
