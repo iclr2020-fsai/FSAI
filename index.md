@@ -35,7 +35,7 @@ Throughout the day we will be livestreaming invited talks, contributed talks, li
 </div>
 
 ### Q&A
-During the livestream, we encourage you to discuss the workshop content with other participants and to ask questions of our speakers. We have two tools, [rocket.chat](https://iclr.rocket.chat/channel/workshop_FSAI) and [sli.do](https://app.sli.do/event/wmcmafgi), evnt code "wmcmafgi" (to aid with global access): the moderator will monitor both.
+During the livestream, we encourage you to discuss the workshop content with other participants and to ask questions of our speakers. We have two tools, [rocket.chat](https://iclr.rocket.chat/channel/workshop_FSAI) and [sli.do](https://app.sli.do/event/wmcmafgi) (event code 56754). The moderator will monitor both. We have two to aid with global access.
 
 <iframe src="https://app.sli.do/event/wmcmafgi" height="100%" width="100%" style="min-height: 560px;"></iframe>
 
