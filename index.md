@@ -1,8 +1,33 @@
 # Fundamental Science in the AI Era
 ### April 26 2020
 ## Virtual Workshop at ICLR 2020 (previously in Addis Ababa, Ethiopia)
+
+## Fundamental Science in the era of AI at ICLR 2020
+
+We are pleased to announce the first “Fundamental Science in the era of AI” Workshop at the [International Conference on Learning Representations (ICLR) 2020](https://iclr.cc).
+
+## Workshop Rationale
+The key themes for the workshop are:
++ Rigorous and interpretable ML for fundamental science - “Big” science goals require precise control of systematic errors and yet deliver exabytes of data that will likely need the techniques of machine and deep learning to process. Fundamental sciences require models that are interpretable, free from bias and with precise measures of uncertainty. How best can we blend the speed and generality of machine learning with rigorous statistical methodology in a computationally feasible way on exabytes of data? And how do we optimally embed known physics, laws and symmetries into deep learning models?
++ “Unknown Unknowns” - discovering new classes and new laws - “Big” science experiments such as SKA, CERN, LIGO and LSST offer incredible opportunities for scientific discovery. However the tsunami of data will require the use of AI to detect anomalies. How do we discover new classes of objects given the No Free Lunch theorems? How can AI best drive new discoveries in fundamental science in exabytes of data?
++ What is good science in the era of AI? Dangers and opportunities - AI is impacting virtually every aspect of life and the way we do science is no exception. What will the scientific method, and good science in general, look like in 2030? What are the opportunities and potential dangers of “blackbox” AI science?
++ Social Good through AI for Fundamental Science Research - Most big science experiments are funded at least partly because of their long term contribution to the wellbeing of society. What new opportunities does AI-enhanced science provide for the SKA and other big science experiments to contribute to social good through AI, particularly in Africa?
+
+## Invited Speakers (Confirmed)
++ Pavlos Protopapas (Harvard)
++ Francois Lanusse (CosmoStat Laboratory at CEA Saclay)
++ Ashish Mahalbal (Caltech)
++ Benjamin Nachmann (Lawrence Berkeley National Laboratory)
++ Anais Moeller (CNRS at Laboratoire de Physique de Clermont)
+
+## Organisers
++ Bruce Bassett - AIMS and SARAO 
++ Richard Armstrong - SARAO
++ Michelle Lochner - SARAO, AIMS, UWC
++ Nadeem Oozeer - SARAO
+
  
-## How To Participate?
+## On The Day: How To Participate?
 This virtual workshop will consist of a mix of pre-recorded and live content, with various different ways to participate and engage:
 
 + [Register](https://iclr.cc/Register/view-registration) for ICLR (optional). 
@@ -56,23 +81,6 @@ By participating in FSAI, including Q&A sessions, panels, and poster sessions, y
 <iframe frameborder="0" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSSNEsGeUtMKj7mJvgSFhc8jW9TXIAm83BAKGlTHv4HcbGuuJnDS6jDsh5pnBAE_o3Tc_nEbbWiOU9d/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" width="680" height="600"></iframe>
 
 --
-## Fundamental Science in the era of AI at ICLR 2020
-
-We are pleased to announce the first “Fundamental Science in the era of AI” Workshop at the [International Conference on Learning Representations (ICLR) 2020](https://iclr.cc).
-
-## Workshop Rationale
-The key themes for the workshop are:
-+ Rigorous and interpretable ML for fundamental science - “Big” science goals require precise control of systematic errors and yet deliver exabytes of data that will likely need the techniques of machine and deep learning to process. Fundamental sciences require models that are interpretable, free from bias and with precise measures of uncertainty. How best can we blend the speed and generality of machine learning with rigorous statistical methodology in a computationally feasible way on exabytes of data? And how do we optimally embed known physics, laws and symmetries into deep learning models?
-+ “Unknown Unknowns” - discovering new classes and new laws - “Big” science experiments such as SKA, CERN, LIGO and LSST offer incredible opportunities for scientific discovery. However the tsunami of data will require the use of AI to detect anomalies. How do we discover new classes of objects given the No Free Lunch theorems? How can AI best drive new discoveries in fundamental science in exabytes of data?
-+ What is good science in the era of AI? Dangers and opportunities - AI is impacting virtually every aspect of life and the way we do science is no exception. What will the scientific method, and good science in general, look like in 2030? What are the opportunities and potential dangers of “blackbox” AI science?
-+ Social Good through AI for Fundamental Science Research - Most big science experiments are funded at least partly because of their long term contribution to the wellbeing of society. What new opportunities does AI-enhanced science provide for the SKA and other big science experiments to contribute to social good through AI, particularly in Africa?
-
-## Invited Speakers (Confirmed)
-+ Pavlos Protopapas (Harvard)
-+ Francois Lanusse (CosmoStat Laboratory at CEA Saclay)
-+ Ashish Mahalbal (Caltech)
-+ Benjamin Nachmann (Lawrence Berkeley National Laboratory)
-+ Anais Moeller (CNRS at Laboratoire de Physique de Clermont)
 
 
 ## Topics
